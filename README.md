@@ -29,3 +29,6 @@ BatchSize = 128 / LR = 0.0001 / EPOCHS = 50 / WD = 5e-4 /Momentum = 0.9 /Optimiz
 #### [LR Scheduler]
 Warm up start Cosine Annealing   
 ![image](https://user-images.githubusercontent.com/65657711/174602249-9d41ef9a-2305-418e-835a-064fa6ecd6a8.png)
+
+#### [Test dataset accuracy]   
+99.45%
